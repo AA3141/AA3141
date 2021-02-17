@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Amritz, a final-year engineering student at the University of Cambridge. Outside of my degree-work, I'm currently working on how to collect and use data to obtain some interesting insights - the latest of which has involved finding out all scores that have happened in Super League.
+
+Find me on these sites, too!
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 <!--
 **AA3141/AA3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
