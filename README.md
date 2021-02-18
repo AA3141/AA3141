@@ -1,16 +1,17 @@
 <h1 align = 'center'>Hi! I'm Amritz 👋</h1>
 
 <p align='center'>I'm a final-year engineering student at the University of Cambridge, who became interested in the tech sector this year. </p>
-<p align='center'>Outside of my degree-work, I'm currently working on how to collect and use data to obtain some interesting insights. While it's still very early for me, there is no doubt that my degree has helped me get started in the world of coding. Watch this space build up!</p>
+<p align='center'>Outside of my degree-work, I'm currently working on how to collect and use data to obtain some interesting insights. While it's still very early for me, there is no doubt that my degree has helped me get started in the world of coding. </p>
+<p align='center'>Watch this space build up!</p>
 
-<h3 align='center'>Languages I am currently experienced in (plus MATLAB):</h3>
+<h3 align='center'>Languages (plus MATLAB):</h3>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 
-<h3 align='center'>Machine / Data Learning tools I am currently experienced in:</h3>
+<h3 align='center'>Machine / Data Learning tools:</h3>
 <p align='center'>
   <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -25,6 +26,10 @@
 <a href = "https://www.linkedin.com/in/amritz-ansara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <p align='center'>Just be sure to mention you viewed my GitHub page so I know you came from here (and that this page is working - yes!)</p>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/AA3141/AA3141"/></a>
+</p>
 
 
 <!--
