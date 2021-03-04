@@ -18,7 +18,16 @@
   <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-  
+ 
+
+<h3 align='center'>Recent Projects</h3>
+<p align='center'>
+  <ul>
+    <li>Regression and analysis of the Boston Dataset for AI Hack 2021 (2nd place) involving dataset correction</li>
+    <li>Foodetect, an app concept which suggests recipes of food from your fridge - Hex Cambridge 2021</li>
+    <li>Super League Scorigami, where I track all the scorelines in Super League from 1996 and make insights into why the scorelines are distributed as they are.</li>
+  </ul>
+</p>
 <h3 align='center'>📫 Reach me by:</h3>
 
 <p align='center'>
